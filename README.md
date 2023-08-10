@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/Studio3T-17AF66?style=for-the-badge&logo=Studio 3T&logoColor=white">
 <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<a href="https://github.com/dlawhdgus/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://dlawhdgus.notion.site/dlawhdgus/90405e9831774b58b9d4d6a0a9eaccad" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
