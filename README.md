@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=dlawhdgus)
 </div>
 
-##### 언어-Language
+##### 기술-Skills
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"></a>
 <a href="https://nodejs.org/ko" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 
