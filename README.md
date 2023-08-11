@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=dlawhdgus&color=random)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=dlawhdgus&color=#abcdef)
 </div>
 
 ##### 기술-Skills
