@@ -20,4 +20,4 @@
 <a href="https://github.com/dlawhdgus/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://dlawhdgus.notion.site/dlawhdgus/90405e9831774b58b9d4d6a0a9eaccad" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawhdgus&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawhdgus&show_icons=true&theme=swift)
