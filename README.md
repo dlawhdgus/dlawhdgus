@@ -2,7 +2,7 @@
   
   (https://dlawhdgus.notion.site/dlawhdgus/90405e9831774b58b9d4d6a0a9eaccad){: target="_blank"} ![header](https://capsule-render.vercel.app/api?type=Rect&text=dlawhdgus&color=ABCDEF)
   
-  [링크 설명 텍스트](링크주소){: target="_blank"} [구글 웹싸이트 가기](http://google.com){: target="_blank"}
+[구글 웹싸이트 가기](http://google.com) {: target="_blank"}
 
 </div>
 
