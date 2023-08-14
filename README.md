@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href="https://dlawhdgus.notion.site/dlawhdgus/90405e9831774b58b9d4d6a0a9eaccad" target="_blank">![header](https://capsule-render.vercel.app/api?type=Rect&text=dlawhdgus&color=ABCDEF)</a>
+  <a href="https://dlawhdgus.notion.site/dlawhdgus/90405e9831774b58b9d4d6a0a9eaccad">![header](https://capsule-render.vercel.app/api?type=Rect&text=dlawhdgus&color=ABCDEF)</a>
 </div>
 
 ##### 기술-Skills
